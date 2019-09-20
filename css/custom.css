@@ -1,1 +1,4 @@
 /* your styles go here */
+.img-circle {
+    clip-path: circle(39% at 50% 50%)
+}
